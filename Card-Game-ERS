@@ -1,0 +1,37 @@
+Get into a group of players where it consists of 2-5 players.
+Take a deck of cards and shuffle them (take out the Jokers).
+After shuffling, divide them evenly among each players randomly where the cards are faced down.
+Have one person start and go in a pattern of placing down the cards in the middle randomly where the person with the cards are not able to see their numbers or faces (clockwise or counterclockwise preferably).
+If the card placed has a number on it; 
+  The next player has to place a card.
+If the player places a card that is of a different number;
+  The next player goes.
+Else (); If the player places a card that is of a face (Jack, Queen, King, or Ace);
+  The next player has to place the designated amount of cards according the face value.
+If the player puts a card that is a number that does not apply to any of the rules;
+  The next player goes.
+Else (); If the player is able to place a card that creates either a sandwich;
+  Any of the players are able to slap the deck to obtain the cards.
+  All of the players are not required to slap the deck.
+Else (); If the player is able to make a stack of the same number or face;
+  Any of the players are able to slap the deck to obtain the cards.
+  All of the players are not required to slap the deck.
+Else (); If the player is able to make a staircase, for example a 3,4,5, only through a King or Ace;
+  Any of the players are able to slap the deck to obtain the cards.
+  All of the players are not required to slap the deck.
+Else (); If a card that is placed that is of another face;
+  The person who is placing for the face card gets to stop placing the designated amount of numbers.
+  the next person who goes has to place down the designated amount of cards that corresponds with the face.
+Else (); If the person fails to put down cards by putting down numbers that do not either make the requirements;
+  The person who placed down the face card obtains all of the cards in the middle of the stack.
+If none of the rules are applied and a player slaps;
+  The player must “burn” take away one card from their stack and place it on the bottom of the stack
+The number at the bottom is not the number going to be used for the sandwich rule.
+While someone slaps the deck with the rules applied or gains the cards;
+  They get the cards.
+  The person who gets the cards starts the game.
+If a player has all the cards from the beginning;
+  That player has won the game.
+  The game is done.
+Else (); if a player is out of cards and the game is still going on between the other players (must be 3-5 players);
+  They are able to slap back into the game by using the rules of the game to obtain the cards.
